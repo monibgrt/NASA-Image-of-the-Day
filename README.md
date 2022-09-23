@@ -20,5 +20,5 @@ When I first wrote my code, I did not have a conditional that checked the media 
 
 ## Lessons Learned:
 
-Learned about conditionals, changing the display property.
+Learned about conditionals, changing the display property with the js file.
 
