@@ -1,4 +1,4 @@
-//Example fetch using pokemonapi.co
+//Example fetch using NASA API
 document.querySelector('button').addEventListener('click', 
 
 function getFetch(){
@@ -31,13 +31,3 @@ function getFetch(){
 })
 
 
-
-//read Nasa documentation to understand how to set the query parameters to pull the image for the date the user inputs
-//error ran - conditional for videos 
-//hiding and showing - set the image to null - and source to bull or displa y block
-//clear out each image on each load 
-//look better yyyy-mm-dd
-//2022-01-01
-//2022-01-07
-
-//yoopWPymFPGgpsLeGxIuLw0uDbjm6evqVvsDRanc
