@@ -16,7 +16,7 @@ Once that was complete, I started working on my code. I added an event listener 
 
 ## Optimizations
 
-When I first wrote my code, I did not have a conditional that checked the media type so it would only return images, so when a date was selected that contained a video I would get an error code. 
+When I first wrote my code, a conditional was added to check the media type. Now when a user inputs a date containing a video instead of an image, the code will return that video with no issues.
 
 ## Lessons Learned:
 
