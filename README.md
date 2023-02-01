@@ -2,7 +2,7 @@
 
 This application uses Nasa's APOD API to retreive an image taken on the date specified by the user. It returns the image and the explanation for the image.
 
-**Link to project:** coming soon 🚀
+**Link to project:** https://imageofdaynasa.netlify.app/
 
 ![Screen Shot 2022-09-23 at 10 25 46 AM](https://user-images.githubusercontent.com/98131320/192023782-c263c88a-7161-4b53-be44-788f8af3d885.png)
 
